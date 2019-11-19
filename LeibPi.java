@@ -1,16 +1,10 @@
-// Mudra Patel 
-// 20117291
-// Assignment 2 - calculating pi using different techniques
-// The different methods are inputted in the template code given by Prof Alan. 
-// Questions are answered at the bottom of this code. 
-
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Assn2_17mjp9 {
+public class LeibPi {
 
 	// Used to count iterations
 	public static int count;
